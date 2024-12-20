@@ -4,12 +4,12 @@ This is my Artificial Intelligence Assignment.
 In this Assignment I build an AI contextual Chatbot using the tensorflow and tflearn library I used the concepts of Natural Language Processing and Neural Network to build it. The intents file that we used for training is made by us.
 
 # Dependencies
-pip3 install nltk
-pip3 install tensorflow==1.13.2
-pip3 install numpy
-pip3 install tflearn
-pip3 install random
-pip3 install json
+1.pip3 install nltk
+2.pip3 install tensorflow==1.13.2
+3.pip3 install numpy
+4.pip3 install tflearn
+5.pip3 install random
+6.pip3 install json
 
 # Use Cases
 In this technological world every industry run behind AI and automation. One of the best application of integration of AI and Automation would be Chatbots. These are heavily used now-a-days. There are many diferent use cases of Chatbots in indutries. Some of them are,
